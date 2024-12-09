@@ -1,5 +1,6 @@
-# Nomad Bot - README
-Description
+# Nomad Bot 
+Description:
+<br>
 Nomad Bot is an interactive chatbot designed to help travelers discover popular tourist attractions in various cities. Built using Python and Django, this bot serves as a travel companion, providing information about top destinations directly from a database. Whether you're planning a trip or just exploring virtually, Nomad Bot delivers curated recommendations in a user-friendly interface.
 <br>
 Key Features
